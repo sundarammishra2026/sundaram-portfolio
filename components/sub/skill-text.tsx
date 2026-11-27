@@ -33,7 +33,7 @@ export const SkillText = () => {
         variants={slideInFromRight(0.5)}
         className="text-sm sm:text-base text-gray-300 font-mono text-center max-w-xl mt-2 mb-8"
       >
-        Java &bull; Spring Boot &bull; Microservices &bull; React &bull; Generative AI &bull; Docker
+        .NET Core &bull; C# &bull; ASP.NET Core &bull; React.js &bull; SQL Server &bull; Azure
       </motion.div>
     </div>
   );

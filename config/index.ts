@@ -1,29 +1,26 @@
 import type { Metadata } from "next";
 
 export const siteConfig: Metadata = {
-  title: "Shivam Shakya | Full Stack Java & Generative AI Developer",
+  title: "Sundaram Mishra | .NET Core Developer",
   description:
-    "Portfolio of Shivam Shakya - Computer Science student specializing in Java, Spring Boot, REST APIs, Microservices, React, and Generative AI. Solved 250+ DSA problems on LeetCode.",
+    "Portfolio of Sundaram Mishra, .NET Core Developer specializing in C#, ASP.NET Core, REST APIs, Entity Framework Core, SQL Server, and React.",
   keywords: [
-    "Shivam Shakya",
-    "Java Developer",
-    "Spring Boot",
-    "Full Stack Developer",
-    "React",
-    "Generative AI",
+    "Sundaram Mishra",
+    ".NET Core Developer",
+    "C# Developer",
+    "ASP.NET Core",
+    "Entity Framework Core",
+    "SQL Server",
     "REST APIs",
-    "Microservices",
+    "React.js",
     "Next.js",
     "TypeScript",
     "Tailwind CSS",
-    "Ghaziabad",
-    "NITRA Technical Campus",
-    "Uncodemy",
-    "LeetCode",
+    "Noida",
     "Portfolio"
-  ] as Array<string>,
+  ],
   authors: {
-    name: "Shivam Shakya",
-    url: "https://github.com/shakyasagar166",
+    name: "Sundaram Mishra",
+    url: "https://github.com/sundarammishra2026",
   },
-} as const;
+};
